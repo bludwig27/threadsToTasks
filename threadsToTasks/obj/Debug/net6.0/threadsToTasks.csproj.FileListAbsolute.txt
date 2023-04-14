@@ -1,0 +1,15 @@
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\bin\Debug\net6.0\threadsToTasks.exe
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\bin\Debug\net6.0\threadsToTasks.deps.json
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\bin\Debug\net6.0\threadsToTasks.runtimeconfig.json
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\bin\Debug\net6.0\threadsToTasks.dll
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\bin\Debug\net6.0\threadsToTasks.pdb
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\obj\Debug\net6.0\threadsToTasks.csproj.AssemblyReference.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\obj\Debug\net6.0\threadsToTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\obj\Debug\net6.0\threadsToTasks.AssemblyInfoInputs.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\obj\Debug\net6.0\threadsToTasks.AssemblyInfo.cs
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\obj\Debug\net6.0\threadsToTasks.csproj.CoreCompileInputs.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\obj\Debug\net6.0\threadsToTasks.dll
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\obj\Debug\net6.0\refint\threadsToTasks.dll
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\obj\Debug\net6.0\threadsToTasks.pdb
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\obj\Debug\net6.0\threadsToTasks.genruntimeconfig.cache
+C:\Users\bludw\Documents\Microsoft Press\VCSBS\Chapter 1\threadsToTasks\threadsToTasks\obj\Debug\net6.0\ref\threadsToTasks.dll
